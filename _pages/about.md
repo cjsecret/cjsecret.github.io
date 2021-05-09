@@ -19,7 +19,7 @@ I'm a fifth year PhD student in Computer Engineering at Purdue University. My re
 
 ## Publications
 
-1. **Chuan Jiang**, Sanjay Rao, and Mohit Tawarmalani. *PCF: Provably Resilient Flexible Routing*, ACM SIGCOMM 2020. \[[PDF](https://engineering.purdue.edu/~isl/papers/SIGCOMM2020_76_final.pdf)\] | \[[Slides](https://engineering.purdue.edu/~isl/slides/PCF_slides.pdf)\] | [[Video](https://engineering.purdue.edu/~isl/videos/SIGCOMM_76_long.mp4)\]
+1. **Chuan Jiang**, Sanjay Rao, and Mohit Tawarmalani. *PCF: Provably Resilient Flexible Routing*, ACM SIGCOMM 2020. \[[PDF](https://engineering.purdue.edu/~isl/papers/SIGCOMM2020_76_final.pdf)\] \[[Slides](https://engineering.purdue.edu/~isl/slides/PCF_slides.pdf)\] [[Video](https://engineering.purdue.edu/~isl/videos/SIGCOMM_76_long.mp4)\]
 2. Yiyang Chang, **Chuan Jiang**, Ashish Chandra, Sanjay Rao, Mohit Tawarmalani. *Lancet: Better network resilience by designing for pruned failure sets*, ACM SIGMETRICS 2020.
 3. Yanjun Wang, **Chuan Jiang**, Xiaokang Qiu, Sanjay G. Rao. *Learning Network Design Objectives Using A Program Synthesis Approach*, HotNets 2019.
 4. Ashiwan Sivakumar, **Chuan Jiang**, Yun Seong Nam, Shankaranarayanan P N, Vijay Gopalakrishnan, Sanjay Rao, Subhabrata Sen, Mithuna Thottethodi, Vijaykumar T.N. *NutShell: Scalable Whittled Proxy Execution for Low-Latency Web over Cellular Networks*, ACM MOBICOM 2017.
