@@ -7,7 +7,7 @@ main:
     url: /#publications
     
   - title: "CV"
-    url: /cv_chuan.pdf
+    url: /files/cv_chuan.pdf
     
   - title: "Contact"
     url: /#contact
