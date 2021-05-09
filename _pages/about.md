@@ -10,17 +10,16 @@ redirect_from:
 
 ## About me
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a fifth year PhD student in Computer Engineering at Purdue University. My research area is in computer networks with a focus on designing networks with verifiable performance. I've also done work on reducing latency for mobile web applications. My advisor is [Professor Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
 
 ## Education
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* PhD student in Computer Engineering, Purdue University (2016 - present)
+* Bachelor in Computer Science, ACM Honored Class, Shanghai Jiao Tong University (2012 - 2016)
 
 ## Publications
 
-1. **Chuan Jiang**, Sanjay Rao, and Mohit Tawarmalani. cPCF: Provably Resilient Flexible Routing*, ACM SIGCOMM 2020. 
+1. **Chuan Jiang**, Sanjay Rao, and Mohit Tawarmalani. *PCF: Provably Resilient Flexible Routing*, ACM SIGCOMM 2020. 
 2. Yiyang Chang, **Chuan Jiang**, Ashish Chandra, Sanjay Rao, Mohit Tawarmalani. *Lancet: Better network resilience by designing for pruned failure sets*, ACM SIGMETRICS 2020.
 3. Yanjun Wang, **Chuan Jiang**, Xiaokang Qiu, Sanjay G. Rao. *Learning Network Design Objectives Using A Program Synthesis Approach*, HotNets 2019.
 4. Ashiwan Sivakumar, **Chuan Jiang**, Yun Seong Nam, Shankaranarayanan P N, Vijay Gopalakrishnan, Sanjay Rao, Subhabrata Sen, Mithuna Thottethodi, Vijaykumar T.N. *NutShell: Scalable Whittled Proxy Execution for Low-Latency Web over Cellular Networks*, ACM MOBICOM 2017.
