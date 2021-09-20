@@ -10,9 +10,9 @@ redirect_from:
 
 ## About me
 
-I'm a fifth year PhD student in Computer Engineering at Purdue University. My research area is in computer networks with a focus on designing networks with verifiable performance. I've also done work on reducing latency for mobile web applications. My advisor is [Professor Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
+I'm a PhD candidate in Computer Engineering at Purdue University. My research area is in computer networks with a focus on designing networks with verifiable performance. I've also done work on reducing latency for mobile web applications. My advisor is [Professor Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
 
-I’ll be on the job market from Summer 2021. And I’m expecting to graduate in Spring 2022.
+I’m expecting to graduate in Spring 2022 and I'm currently on the job market.
 
 ## Education
 
