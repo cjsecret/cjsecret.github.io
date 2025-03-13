@@ -10,12 +10,13 @@ redirect_from:
 
 ## About me
 
-I'm a PhD candidate in Computer Engineering at Purdue University. My research area is in computer systems and networking with a focus on synthesizing wide-area network designs with provable performance and designing resilient traffic engineering schemes. My works typically combine optimization-theoretic methods including modeling and proofs, along with system prototype building and evaluation which involves real world network topologies and data-sets, and implementation using Mininet and Open vSwitch. I also had experience in building large systems using languages including C++, Java and Python.  My advisor is [Professor Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
+I am a Research Scientist at Meta, where I have been working in Network Infrastructure since July 2022. My work focuses on enhancing the safety of network access. I have worked on multiple projects, including developing and enforcing network access policies to prevent risky operations, building tools to provide visibility and tracking of network access, and contributing to network services for maintenance, health checking, automated repair, etc.
 
-I’m expecting to graduate in Spring 2022 and I’m currently looking for industry positions of software engineer or researcher starting from June 2022.
+I hold a Ph.D. in Computer Engineering from Purdue University, where my research centered on computer systems and networking. Specifically, I focused on synthesizing wide-area network designs with provable performance and designing resilient traffic engineering schemes. My research typically combined optimization-theoretic methods including modeling and proofs, along with system prototype building and evaluation which involves real world network topologies and data-sets. My advisor is [Professor Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
+
 ## Education
 
-* PhD student in Computer Engineering, Purdue University (2016 - present) 
+* PhD student in Computer Engineering, Purdue University (2016 - 2022) 
 * Bachelor in Computer Science, ACM Honored Class, Shanghai Jiao Tong University (2012 - 2016)
 
 ## Publications
@@ -28,4 +29,4 @@ I’m expecting to graduate in Spring 2022 and I’m currently looking for indus
 
 ## Contact
 
-Email: jiang486 (at) purdue (dot) edu
+Email: chuanjiang93 (at) gmail (dot) com
