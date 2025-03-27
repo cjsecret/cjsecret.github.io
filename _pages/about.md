@@ -12,7 +12,10 @@ redirect_from:
 
 I am a Research Scientist at Meta, where I have been working in Network Infrastructure since July 2022. My work focuses on enhancing the safety of network access. I have worked on multiple projects, including developing and enforcing network access policies to prevent risky operations, building tools to provide visibility and tracking of network access, and contributing to network services for maintenance, health checking, automated repair, etc.
 
+I am also interested in distributed systems — especially building scalable, real-time applications using modern cloud-native technologies. Check out [CommentMind](https://commentmind.com), a system I developed for analyzing YouTube comments with LLMs (ChatGPT). It delivers live summarization and enables interactive chat based on the content and sentiment of the discussion — deployed on AWS.
+
 I hold a Ph.D. in Computer Engineering from Purdue University, where my research centered on computer systems and networking. Specifically, I focused on synthesizing wide-area network designs with provable performance and designing resilient traffic engineering schemes. My research typically combined optimization-theoretic methods including modeling and proofs, along with system prototype building and evaluation which involves real world network topologies and data-sets. My advisor is [Professor Sanjay Rao](https://engineering.purdue.edu/~sanjay/).
+
 
 ## Education
 
